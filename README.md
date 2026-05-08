@@ -1,0 +1,2 @@
+# vision-x
+git init git add . git commit -m "Initial commit - VISION-X website" git remote add origin https://github.com/your-username/vision-x-website.git git push -u origin main
